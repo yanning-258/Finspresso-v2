@@ -1,0 +1,37 @@
+#virtual environment
+finnnnn
+# Python
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+venv/
+.venv/
+env/
+.env
+finnnnn
+
+# Node.js/JavaScript
+node_modules/
+dist/
+.vite/
+*.log
+.cache/
+.temp/
+
+# Environment files
+.env.local
+.env.*.local
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing
+coverage/
+htmlcov/
