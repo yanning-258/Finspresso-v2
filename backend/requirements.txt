@@ -1,0 +1,15 @@
+chromadb==0.4.14
+Flask==3.1.0
+langchain==0.3.19
+langchain_chroma==0.2.2
+langchain_community==0.3.18
+langchain_core==0.3.40
+langchain_deepseek==0.1.2
+langchain_huggingface==0.1.2
+langchain_openai==0.3.7
+langchain_text_splitters==0.3.6
+langgraph==0.3.5
+nltk==3.9.1
+pandas==2.2.3
+pydantic==2.10.6
+SQLAlchemy==1.4.54
